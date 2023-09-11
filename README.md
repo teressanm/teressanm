@@ -1,6 +1,5 @@
 <div align = center>
-![Screenshot 2023-09-11 142737](https://github.com/teressanm/teressanm/assets/132760919/93b20fdb-92ec-4292-a7aa-dedb2fadeb40)
-
+![Screenshot 2023-09-11 142737](https://github.com/teressanm/teressanm/assets/132760919/7b9d64b9-ad97-453f-b51b-b4bf4289ea2d)
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="50" height="50" /> ciao pals 👋
 
 <div align = left>
