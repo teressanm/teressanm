@@ -7,7 +7,7 @@
 
 <div align = left>
 
-u can call me teresa or nadia as well. im a second-year geophysics student at ugm and idk what else to say currently
+u can call me teresa or nadia as well. im a second-year geophysics student at ugm and idk what else to say
 
 - 🔭 I want to be able to do codes properly yet i dont understand any single of it
 - 🌱 I like to learn new things but im a lazy person
