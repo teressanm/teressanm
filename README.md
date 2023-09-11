@@ -1,12 +1,14 @@
 <div align = center>
-![Screenshot 2023-09-11 142737](https://github.com/teressanm/teressanm/assets/132760919/9bd1e018-8099-433f-8a5f-073f3a531c92)
+
 ![Screenshot 2023-09-11 142737](https://github.com/teressanm/teressanm/assets/132760919/fd1ac501-e9fa-478f-9f82-cb1cd1d5d8bb)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="50" height="50" /> ciao pals 👋
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="50" height="50" /> 
+
+ciao pals 👋
 
 <div align = left>
 
-u can call me teresa or nadia as well. im a second-year geophysics student at ugm and idk what else to say
+u can call me nadia or teresa as well. im a second-year geophysics student at ugm and idk what else to say
 - 🔭 I want to be able to do codes properly yet i dont understand any single of it
 - 🌱 I like to learn new things but im a lazy person
 - 💬 I like music and movies
