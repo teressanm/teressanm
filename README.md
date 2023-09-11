@@ -10,6 +10,15 @@
 
 <img src= https://media.tenor.com/7Za-xqNxmFoAAAAC/sunday-morning-prayers-and-blessings.gif>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nadia-maharaniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadia-maharaniii" height="30" width="40" /></a>
+<a href="https://instagram.com/teressanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teressanm" height="30" width="40" /></a>
+</p>
+
+
 # ciao pals 👋 
 u can call me nadia or teresa as well. im a second-year geophysics student at ugm and idk what else to say
 - 🔭 I want to be able to do codes properly yet i dont understand any single of it
