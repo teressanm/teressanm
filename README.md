@@ -5,7 +5,7 @@
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="250" height="250" /> 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="200" height="200" /> 
 <div align = left>
 
 <img src= https://media.tenor.com/7Za-xqNxmFoAAAAC/sunday-morning-prayers-and-blessings.gif>
