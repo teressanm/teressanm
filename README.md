@@ -13,10 +13,10 @@ hello there, beautiful ppl! u can call me nadia or teresa as well. im a second-y
 - 🔭 ```Want to be able to do codes properly yet i havent understood any single of it```
 - 🌱 ```Like to learn new things and always thirst for knowledge```
 -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" alt="Movie Camera" width="25" height="25" /> ```Love watching movies```
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> ```Love listening to music```
-- 🤘🏻 ```Rockstar wannabe```
-- 😄 ```Pronouns : bukan sulap bukan she/her```
-- ⚡ ```Fun fact : i hate people```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="25" height="25" /> ```Love listening to music```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium-Light%20Skin%20Tone.png" alt="Love-You Gesture Medium-Light Skin Tone" width="25" height="25" /> ```Rockstar wannabe```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Cartwheeling.png" alt="Woman Cartwheeling" width="25" height="25" /> ```Pronouns : bukan sulap bukan she/her```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> ```Fun fact : i hate people```
 
 <h3 align="left"> 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" alt="Chains" width="25" height="25" />  let's get connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow%20Curving%20Down.png" alt="Right Arrow Curving Down" width="25" height="25" />
