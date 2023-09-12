@@ -5,7 +5,7 @@
 <br>
 <div align = left>
 
-<h3 align="center">A wanderer <img src=<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> </h3>
+<h3 align="center">A wanderer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> </h3>
 
 
 # ciao pals 👋 
