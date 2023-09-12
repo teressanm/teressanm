@@ -5,10 +5,10 @@
 <br>
 <div align = left>
 
-<h3 align="center">A wanderer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> </h3>
+<h3 align="center">ciao! you've landed here! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> </h3>
 
 
-# ciao pals 👋 
+# let's get closer 👋 
 u can call me nadia or teresa as well. im a second-year geophysics student at ugm and idk what else to say
 - 🔭 I want to be able to do codes properly yet i dont understand any single of it
 - 🌱 I like to learn new things but im a lazy person
