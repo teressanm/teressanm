@@ -9,7 +9,7 @@
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" alt="Chains" width="25" height="25" />  let's get started <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow%20Curving%20Down.png" alt="Right Arrow Curving Down" width="25" height="25" />
-hello there, beautiful ppl! here u can call me nadia or teresa as well. im a second-year geophysics student at ugm and actually idk what else to say
+hello there, beautiful ppl! u can call me nadia or teresa as well. im a second-year geophysics student at ugm and actually idk what else to say
 - 🔭 Want to be able to do codes properly yet i havent understood any single of it
 - 🌱 Like to learn new things and always thirst for knowledge
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> Love listening to music
@@ -25,4 +25,4 @@ Connect with me : </h3>
 
 [![<Gmail>](https://img.shields.io/badge/Gmail-4db8ff?style=for-the-badge&logo=Gmail&logoColor=white)](nadiamaharani@mail.ugm.ac.id)
 
-< img scr = "https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif" />
+< img scr = "https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif" /> <br>
