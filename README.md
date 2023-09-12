@@ -1,24 +1,28 @@
 <div align = center>
 
-![Screenshot 2023-09-11 142737](https://github.com/teressanm/teressanm/assets/132760919/fd1ac501-e9fa-478f-9f82-cb1cd1d5d8bb)
-
+<img src= https://media.giphy.com/media/GTgq6SgnEKzdu/giphy.gif />
 
 <br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="200" height="200" /> 
 <div align = left>
 
-<img src= https://media.tenor.com/7Za-xqNxmFoAAAAC/sunday-morning-prayers-and-blessings.gif>
+<h3 align="center">ciao pals, you've landed here! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="50" height="50" /> </h3>
 
-# ciao pals 👋 
-u can call me nadia or teresa as well. im a second-year geophysics student at ugm and idk what else to say
-- 🔭 I want to be able to do codes properly yet i dont understand any single of it
-- 🌱 I like to learn new things but im a lazy person
-- 💬 I like music and movies
-- 😄 Pronouns: bukan sulap bukan she/her
-- ⚡ Fun fact: i hate you
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" alt="Chains" width="25" height="25" />  let's get started <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow%20Curving%20Down.png" alt="Right Arrow Curving Down" width="25" height="25" />
+hello there, beautiful ppl! u can call me nadia or teresa as well. im a second-year geophysics student at ugm and actually idk what else to say
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Symbols.png" alt="Input Symbols" width="25" height="25" /> ```Want to be able to do codes properly yet havent understood any single of it```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /> ```Like to learn new things and always thirst for knowledge```
+-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" alt="Movie Camera" width="25" height="25" /> ```Love watching movies```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="25" height="25" /> ```Love listening to music```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium-Light%20Skin%20Tone.png" alt="Love-You Gesture Medium-Light Skin Tone" width="25" height="25" /> ```Rockstar wannabe```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Cartwheeling.png" alt="Woman Cartwheeling" width="25" height="25" /> ```Pronouns : bukan sulap bukan she/her```
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> ```Fun fact : i hate people```
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" alt="Chains" width="25" height="25" />let's get connected  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow%20Curving%20Down.png" alt="Right Arrow Curving Down" width="25" height="25" /> 
+<p align="left">
+<a href="https://linkedin.com/in/nadia-maharaniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadia-maharaniii" height="30" width="40" /></a>
+<a href="https://instagram.com/teressanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teressanm" height="30" width="40" /></a>
 
 [![<Gmail>](https://img.shields.io/badge/Gmail-4db8ff?style=for-the-badge&logo=Gmail&logoColor=white)](nadiamaharani@mail.ugm.ac.id)
-[![<Linkedin>](https://img.shields.io/badge/Linked_in-0099ff?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nadia-maharaniii)
-[![<Instagram>](https://img.shields.io/badge/Instagram-003d66?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/teressanm)
+
+<img scr= "https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif" /> 
